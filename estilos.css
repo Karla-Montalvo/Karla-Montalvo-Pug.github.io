@@ -1,0 +1,29 @@
+/*Pongo comentario*/
+
+body{
+    background-color:#fffe8a; 
+    color:#e97891; 
+}
+h3{ color:#0a3a9f;
+}
+h1, p{
+    color:maroon
+}
+
+.img1{
+    width: 250px;
+    height: 250px;
+    border-style:dashed;
+    border-color:maroon;
+    padding: 15px;
+    margin-right: 25px;
+}
+.img2{
+    width: 250px;
+    height: 250px;
+    border-style:dashed;
+    border-color: maroon;
+    padding: 15px;
+}
+
+small{color:blue}
